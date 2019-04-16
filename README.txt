@@ -13,3 +13,6 @@ as long as you do the following:
 this will generate localhost webpages for the html and php code/pages.
 3. To view/run the code, you should install an open source code editor such as Brackets or Notepad++ this is how our project was
 able to execute successfully
+4. Use phpMyAdmin to create your database and tables
+to view our table copy and paste this link: http://localhost/phpmyadmin/db_structure.php?db=powerhouse_warehouse
+(make sure XAMPP is running to view)
